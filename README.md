@@ -1,2 +1,6 @@
-# JapaneseLearningNote
-日语学习笔记
+# japanese learning note
+
+请查看issues
+
+![aragaki](https://img.hacpai.com/file/2019/05/1-ffdbfaa9.gif)
+
